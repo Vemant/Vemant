@@ -11,8 +11,8 @@
 *Java для тестировщиков:* https://netology.ru/sharing/4c2cac2b521182d78a10cce386423c28?utm_source=social&utm_campaign=achievements
 
 *Командный проект:* 
-Условие: https://github.com/netology-code/javaqa-team-diplom-2
-Решение: https://github.com/Vemant/QAMID-66_Java_TeamProject_26.08-04.09_2
+  - Условие: https://github.com/netology-code/javaqa-team-diplom-2
+  - Решение: https://github.com/Vemant/QAMID-66_Java_TeamProject_26.08-04.09_2
 
 *Автоматизированное тестирование:* https://netology.ru/sharing/3487cfc8e4f050a3018352a98b5e2b75?utm_source=social&utm_campaign=achievements
 
